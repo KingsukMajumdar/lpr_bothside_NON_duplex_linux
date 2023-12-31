@@ -1,9 +1,9 @@
 #!/bin/bash
 #using a small shell script we can use (in Linux e.g Arch/Ubuntu/Garuda ) a non duplexing printer
 #e.g. HP LaserJet 1020 Plus for both sides printing without thinking odd/even pages ..
-#Date: Sunday 31 December 2023 2:04:59 PM IST
+#Date: Sunday 31 December 2023 12:04:59 PM IST
 #Version: v0
-#Last update: Sunday 31 December 2023 12:04:59 PM IST
+#Last update: Sunday 31 December 2023 2:04:59 PM IST
 #MIT License
 #Copyright (c) 2023 Kingsuk Majumdar
 #
