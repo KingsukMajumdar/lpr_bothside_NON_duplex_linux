@@ -79,7 +79,7 @@ echo "wait and watch...."
 lpr OddPages.pdf
 echo "Thank you Shree Garuda Linux...!!!"
 cd ..
-rm -r ~/Desktop/lpkmdirtemp
+rm -r "$PathOf_pdf"
 # To detele the all temp variables
 unset -v PageNumber
 unset -v original_pdf
